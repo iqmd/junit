@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.test.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.074 s <<< FAILURE! - in com.test.AppTest
+addTest  Time elapsed: 0.058 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <11> but was: <10>
+	at com.test.AppTest.addTest(AppTest.java:12)
+
