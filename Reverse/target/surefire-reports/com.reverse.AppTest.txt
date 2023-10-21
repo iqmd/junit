@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.reverse.AppTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.026 s <<< FAILURE! - in com.reverse.AppTest
+isReverseSecond(com.reverse.AppTest)  Time elapsed: 0.003 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<!dlroW olle[]> but was:<!dlroW olle[H]>
+	at com.reverse.AppTest.isReverseSecond(AppTest.java:20)
+
